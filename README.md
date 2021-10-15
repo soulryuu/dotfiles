@@ -10,7 +10,7 @@
 
 </div>
 
-**Humberto's configuration files :octocat:**
+## About
 
 Simple KDE Rice with various layouts for production
 
