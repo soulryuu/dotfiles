@@ -3,9 +3,8 @@
 ![](https://i.imgur.com/ypArhpF.png)
 ### soulryuu dotfiles
   
-![OS](https://img.shields.io/badge/Unstable-%23E0234E.svg?style=for-the-badge&logo=debian&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/github/license/soulryuu/dotfiles?label=Licence&logo=GNU&logoColor=ffffff&style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/HBlanqueto/dotfiles?label=Last%20commit&logo=GitHub)
+![GitHub last commit](https://img.shields.io/github/last-commit/soulryuu/dotfiles?label=Last%20commit&logo=GitHub)
 ![GitHub repo size](https://img.shields.io/github/repo-size/HBlanqueto/dotsbian?label=Repo%20size)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=flat)](https://t.me/unixlovers) 
   
