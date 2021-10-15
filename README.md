@@ -16,11 +16,8 @@ Simple KDE Rice with various layouts for production
 
 **Wiki**
 
-- [Home](https://github.com/HBlanqueto/dotsbian/wiki)
-  - [Building Kernel](https://github.com/HBlanqueto/dotsbian/wiki/Building-Kernel)
-  - [Flatpak](https://github.com/HBlanqueto/dotsbian/wiki/Flatpak)
-  - [Minimal Gnome](https://github.com/HBlanqueto/dotsbian/wiki/Minimal-Gnome)
-  - [Wayland](https://github.com/HBlanqueto/dotsbian/wiki/Wayland)
+- [Home](https://github.com/soulryuu/dotfiles/wiki)
+  - [Installation](https://github.com/soulryuu/dotfiles/wiki/Installation)
 
 ## My System
 - **OS:** Arch Linux & Void Linux
@@ -29,6 +26,7 @@ Simple KDE Rice with various layouts for production
 - **Browser:** Firefox
 - **Window Manager:** KWin
 - **Desktop Enviroment:** KDE Plasma 5.23
+- **Fonts:** Inter Font + FantasqueMono
 - **Text Editor:** Neovim, VSCode
 - **Packages:** Pacman & AUR (Pikaur)
 - **File Manager:** Dolphin
