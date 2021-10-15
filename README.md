@@ -1,6 +1,7 @@
 <div align='center'>
   
-![](https://i.imgur.com/ypArhpF.png)
+<img src="https://i.imgur.com/ypArhpF.png" width="350px">
+  
 ### soulryuu dotfiles
   
 ![GitHub](https://img.shields.io/github/license/soulryuu/dotfiles?label=License&logo=GNU&logoColor=ffffff&style=flat)
