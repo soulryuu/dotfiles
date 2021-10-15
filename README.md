@@ -35,16 +35,11 @@ Welcome to my system configuration files! My system is [Debian](https://wiki.deb
 - **Music:** Spotify (+Spicetify)
 
 ## Setup 🛠️ 
-This repositorie has [submodules](https://github.blog/2016-02-01-working-with-submodules/), this is the correct way to clone it:
-```bash
-git clone --recurse-submodules https://github.com/HBlanqueto/dotfiles.git --depth 1
-cd dotfiles
-git submodule update --remote --merge
-```
+
 
 ##
 <div align='center'>
   
-Special thanks to [unixporn community](https://www.reddit.com/r/unixporn/), most part of my dots are based on them.
+Special thanks to "..."
   
 </div>                  
