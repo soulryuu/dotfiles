@@ -21,18 +21,17 @@ Welcome to my system configuration files! My system is [Debian](https://wiki.deb
   - [Minimal Gnome](https://github.com/HBlanqueto/dotsbian/wiki/Minimal-Gnome)
   - [Wayland](https://github.com/HBlanqueto/dotsbian/wiki/Wayland)
 
-## System Info ℹ️
-- **OS:** [Debian Unstable](https://wiki.debian.org/DebianUnstable) :trollface: 🧠
-- **Terminal:** Wezterm & Foot 📟
-- **Telegram Group:** [*Nix Lovers](https://t.me/unixlovers)
-- **Shell:** Zsh 🐚🧙🏼‍♂️
+## My System
+- **OS:** [Arch Linux](https://wiki.archlinux.org)
+- **Terminal:** Konsole & Kitty 📟
+- **Shell:** Fish 🐟
 - **Browser:** Firefox 🦊
-- **Window Manager:** [awesome-git](https://github.com/awesomeWM/awesome) 🪐
-- **Desktop Enviroment:** Gnome 40.5 wayland session 👣
-- **Text Editor:** Neovim, nano 📝
-- **Packages:** Apt & Flatpak 📦
-- **File Manager:** Thunar & Nautilus 📁
-- **Music:** Lollypop & ncmpcpp 🎧
+- **Window Manager:** [KWin](https://userbase.kde.org/KWin)
+- **Desktop Enviroment:** KDE Plasma 5.23
+- **Text Editor:** Neovim, VSCode
+- **Packages:** Pacman & AUR (Pikaur)
+- **File Manager:** Dolphin
+- **Music:** Spotify (+Spicetify)
 - **Cursor:** [McMojave-cursor](https://github.com/vinceliuice/McMojave-cursors)
 
 ## Setup 🛠️ 
