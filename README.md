@@ -12,7 +12,7 @@
 
 **Humberto's configuration files :octocat:**
 
-Welcome to my system configuration files! My system is [Debian](https://wiki.debian.org/DebianUnstable) you will find my daily use programs & I'll invite you to read my [wiki](https://github.com/HBlanqueto/dotfiles/wiki). The awesomeWM configuration only works with [GitHub's repository](https://github.com/awesomeWM/awesome) version, you have to install `awesome-git` package in Arch Linux, if you are in another GNU/Linux distribution you have to build it.
+Simple KDE Rice with various layouts for production
 
 **Wiki**
 
@@ -37,9 +37,4 @@ Welcome to my system configuration files! My system is [Debian](https://wiki.deb
 ## Setup 🛠️ 
 
 
-##
-<div align='center'>
-  
-Special thanks to "..."
-  
-</div>                  
+##               
