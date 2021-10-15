@@ -5,9 +5,8 @@
   
 ![GitHub](https://img.shields.io/github/license/soulryuu/dotfiles?label=License&logo=GNU&logoColor=ffffff&style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/soulryuu/dotfiles?label=Last%20commit&logo=GitHub)
-![GitHub repo size](https://img.shields.io/github/repo-size/HBlanqueto/dotsbian?label=Repo%20size)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=flat)](https://t.me/unixlovers) 
-  
+![GitHub repo size](https://img.shields.io/github/repo-size/soulryuu/dotfiles?label=Repo%20size)
+
 </div>
 
 **Humberto's configuration files :octocat:**
