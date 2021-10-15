@@ -23,17 +23,16 @@ Welcome to my system configuration files! My system is [Debian](https://wiki.deb
   - [Wayland](https://github.com/HBlanqueto/dotsbian/wiki/Wayland)
 
 ## My System
-- **OS:** [Arch Linux](https://wiki.archlinux.org)
-- **Terminal:** Konsole & Kitty 📟
-- **Shell:** Fish 🐟
-- **Browser:** Firefox 🦊
-- **Window Manager:** [KWin](https://userbase.kde.org/KWin)
+- **OS:** Arch Linux & Void Linux
+- **Terminal:** Konsole & Kitty
+- **Shell:** Fish
+- **Browser:** Firefox
+- **Window Manager:** KWin
 - **Desktop Enviroment:** KDE Plasma 5.23
 - **Text Editor:** Neovim, VSCode
 - **Packages:** Pacman & AUR (Pikaur)
 - **File Manager:** Dolphin
 - **Music:** Spotify (+Spicetify)
-- **Cursor:** [McMojave-cursor](https://github.com/vinceliuice/McMojave-cursors)
 
 ## Setup 🛠️ 
 This repositorie has [submodules](https://github.blog/2016-02-01-working-with-submodules/), this is the correct way to clone it:
