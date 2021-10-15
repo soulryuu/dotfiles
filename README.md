@@ -1,6 +1,8 @@
 <div align='center'>
   
-# Dotsbian 🍚 
+# soulryuu dotfiles
+  
+![](https://i.imgur.com/ypArhpF.png)
   
 ![OS](https://img.shields.io/badge/Unstable-%23E0234E.svg?style=for-the-badge&logo=debian&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/github/license/HBlanqueto/dotfiles?label=Licence&logo=GNU&logoColor=ffffff&style=flat)
