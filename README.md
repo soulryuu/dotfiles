@@ -1,13 +1,13 @@
 <div align='center'>
   
-<img src="https://i.imgur.com/ypArhpF.png" width="350px">
-  
 ### soulryuu dotfiles
   
-![GitHub](https://img.shields.io/github/license/soulryuu/dotfiles?label=License&logo=GNU&logoColor=ffffff&style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/soulryuu/dotfiles?label=Last%20commit&logo=GitHub)
-![GitHub repo size](https://img.shields.io/github/repo-size/soulryuu/dotfiles?label=Repo%20size)
-
+<img align='center' src="https://i.imgur.com/ypArhpF.png" width="45%" />
+  
+### 
+  
+![GitHub](https://img.shields.io/github/license/soulryuu/dotfiles?color=9466FF&logo=archlinux&logoColor=FFFFFF&style=for-the-badge)
+  
 </div>
 
 ## About
