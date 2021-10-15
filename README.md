@@ -17,6 +17,7 @@ Simple KDE Rice with various layouts for production
 **Wiki**
 
 - [Home](https://github.com/soulryuu/dotfiles/wiki)
+  - [Screenshots](https://github.com/soulryuu/dotfiles/wiki/Screenshots)
   - [Installation](https://github.com/soulryuu/dotfiles/wiki/Installation)
 
 ## My System
