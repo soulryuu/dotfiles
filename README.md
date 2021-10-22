@@ -1,8 +1,6 @@
 <div align='center'>
-  
-### soulryuu dotfiles
-  
-<img align='center' src="https://i.imgur.com/ypArhpF.png" width="45%" />
+ 
+<img align='center' src="https://raw.githubusercontent.com/soulryuu/dotfiles/main/.images/logo.png" width="85%" />
   
 ### 
   
