@@ -19,15 +19,15 @@ Simple KDE Rice with various layouts for production
   - [Installation](https://github.com/soulryuu/dotfiles/wiki/Installation)
 
 ## My System
-- **OS:** Arch Linux & Void Linux
-- **Terminal:** Konsole & Kitty
+- **OS:** Gentoo Linux
+- **Terminal:** Konsole
 - **Shell:** Fish
 - **Browser:** Firefox
 - **Window Manager:** KWin
 - **Desktop Enviroment:** KDE Plasma 5.23
 - **Fonts:** Inter Font + FantasqueMono
 - **Text Editor:** Neovim, VSCode
-- **Packages:** Pacman & AUR (Pikaur)
+- **Packages:** Emerge + Nix
 - **File Manager:** Dolphin
 - **Music:** Spotify (+Spicetify)
 
