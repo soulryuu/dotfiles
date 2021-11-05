@@ -20,15 +20,14 @@ Simple KDE Rice with various layouts for production
 
 ## My System
 - **OS:** Gentoo Linux
-- **Terminal:** Konsole
+- **Terminal:** Kitty
 - **Shell:** Fish
 - **Browser:** Firefox
-- **Window Manager:** KWin
-- **Desktop Enviroment:** KDE Plasma 5.23
-- **Fonts:** Inter Font + FantasqueMono
+- **Window Manager:** BSPWM + sway
+- **Fonts:** Adobe Source Sans 3 + FantasqueSans Mono
 - **Text Editor:** Neovim, VSCode
-- **Packages:** Emerge + Nix
-- **File Manager:** Dolphin
+- **Packages:** Emerge
+- **File Manager:** Ranger
 - **Music:** Spotify (+Spicetify)
 
 ## Setup 🛠️ 
